@@ -1,4 +1,6 @@
-
-alice.*
-fred.*
+*.crl
+*.kdb
+*.pem
+*.rdb
+*.sth
 set-mqserver.sh
